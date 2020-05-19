@@ -7,7 +7,7 @@ public class software1 {
 		
 		System.out.println("ポテト");
 		System.out.println("ホクホクしてて美味しいから。");
-
+		System.out.println("私はスイートポテトが一番好き。byまみこ");
 	}
 
 }
